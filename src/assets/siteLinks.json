@@ -7,12 +7,17 @@
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "link": "https://music.hlt.ink/"
   },
   {
     "icon": "Cloud",
     "name": "网盘(IPV6)",
     "link": "https://nas.novashen.top/"
+  },
+  {
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://hot.hlt.ink/"
   },
   {
     "icon": "Compass",
